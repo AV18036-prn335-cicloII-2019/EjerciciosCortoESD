@@ -1,0 +1,3 @@
+/home/dany/CortoESD/CortoEjercicio2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dany/CortoESD/CortoEjercicio2/cmake-build-debug/CMakeFiles/CortoEjercicio2.dir
+/home/dany/CortoESD/CortoEjercicio2/cmake-build-debug/CMakeFiles/edit_cache.dir
